@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+.app{
+  min-height:100vh;
+  display:grid;
+  background-image:url("https://wallpaperset.com/w/full/6/c/8/247280.jpg");
+  background-size:cover;
+  background-position: center top;
+}
